@@ -1,0 +1,55 @@
+-----------------------=
+Date: 18-09-24 | Nota  |
+-----------------------=
+
+Para empezar MUY Bien, la definicion explicada para el proyecto es acotada, mi
+recomendación, sobre el trabajo a seguir es:
+
+- Crear el siguiente arbol de trabajo:
+
+.
+├── docs/
+│   └── concepts/
+├── Notes
+├── README.md
+└── src/
+    ├── build/
+    ├── devOps/
+    └── language/
+
+
+# Nota: para generar esa vista de carpetas con el programa tree para la
+# terminal, recomiendo su instalacion.
+
+
+- Reubicar informacion del README, en su archivo de concepto correspondiente
+
+=> El contenido del README ---> ./docs/concepts/howdoit.md
+
+- Voy a redactar y definir los documentos siguientes
+
+    - docs/concepts/algorithm.md
+        # En este archivo se documentará el algoritmo para realizar el proyecto
+    - docs/concepts/language.md
+        # En este archivo vamos a cosignar lo correspondiente al language
+        # selecionado, es decir, como el lenguaje soluciona mi necesidad.
+    - docs/concepts/project.md
+        # definicion sobre la estructura de un proyecto.
+
+# Revisa todo el pull request.
+
+
+# Actividad extra:
+
+- Completa el archivo de [lenguaje], para los lenguajes de programación, C, JS,
+  y Python.
+
+- En el archivo de [algorithm], investiga los diagramas flujo, tambien
+  complementa el documento expresando tu idea de como llevar acabo el proyecto
+  de un interprete de HTML, desde la perspectiva del algoritmo, describe el
+  proceso de como hacerlo buscando ser lo mas detallado en base a lo que se
+  comprende como un flujo, para ello empieza con el proceso nucleo, que es lo
+  que ya hiciste en el README.
+
+- En el Archivo [project], haz una investigacion de lo que representa cada
+  carpeta del proyecto.
